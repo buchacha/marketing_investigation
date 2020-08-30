@@ -30,7 +30,7 @@ def clean_string(name):
 	#First parameter is the replacement, second parameter is your input string
 	return regex.sub('', name)
 	
-key="AIzaSyBDgfs58nqW-HOv9aIFnMsMd1H62eLcd8I"
+key="AIzaSyBDgfs58nqW-HOv9aIFnMhhhsMd1H62eLcd8I"
 URL = "https://maps.googleapis.com/maps/api/geocode/json?key="+key
   
 # location given here 
